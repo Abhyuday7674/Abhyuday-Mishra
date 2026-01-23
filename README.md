@@ -34,7 +34,8 @@ I’m focused on **real-world projects**, not just certificates.
 
 ## 🏆 Certifications & Programs
 - **Business Analytics & Generative AI** – BITS Pilani  
-- **McKinsey Forward Program**  
+- **McKinsey Forward Program** - McKinsey & Company
+- **Google Analytics Certification** - Skillshop
   
 
 ---
