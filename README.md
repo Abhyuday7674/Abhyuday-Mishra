@@ -1,19 +1,55 @@
-# Hi, I'm Abhyuday 👋
+# Hi, I'm Abhyuday Mishra 👋  
+**Aspiring Data Analyst | Business Analytics | Generative AI**
 
-I am a Data Analyst with a commerce background, currently learning Business Analytics & Generative AI at BITS Pilani.
+📍 India | 🎯 Actively seeking **Internships / Entry-level Analyst roles**
 
-## Skills
-- Excel
-- SQL
-- Python
-- Power BI
-- Tableau
+---
 
-## What I am working on
-- Sales analysis dashboards
-- Customer data analysis
-- Financial KPI analysis
+## 🚀 About Me
+I’m a **commerce graduate turned Data Analyst**, currently upskilling in **Business Analytics & Generative AI at BITS Pilani**.  
+I enjoy turning messy data into **clear insights that drive business decisions**.
 
-## Connect with me
-- LinkedIn: (https://www.linkedin.com/in/abhyuday-mishra-da/)
+I’m focused on **real-world projects**, not just certificates.
 
+---
+
+## 🧠 Core Skills
+- **Data Analysis:** Excel (Advanced), SQL, Python  
+- **Visualization:** Power BI, Matplotlib, Seaborn  
+- **Databases:** MySQL  
+- **Analytics Concepts:** Business KPIs, OLAP, Reporting, Data Cleaning  
+- **AI Tools:** Prompt Engineering, GenAI for Analytics
+
+---
+
+## 📂 Featured Projects
+### 📊 FlexiMart – Data Architecture & Analytics Project
+- Designed an **end-to-end data architecture** for a retail business  
+- Built **analytical queries (OLAP)** to track sales, revenue & performance  
+- Translated raw data into **business-ready insights**
+
+🔗 *Project details available in this repository*
+
+---
+
+## 🏆 Certifications & Programs
+- **Business Analytics & Generative AI** – BITS Pilani  
+- **McKinsey Forward Program**  
+  
+
+---
+
+## 🎯 What I’m Looking For
+- Data Analyst Intern  
+- Business Analyst Intern  
+- Analytics / Operations Analyst roles  
+
+I’m especially interested in **startups & data-driven teams**.
+
+---
+
+## 📬 Let’s Connect
+- 💼 LinkedIn: *(add your LinkedIn link here)*  
+- 📧 Email: *(add your professional email)*  
+
+⭐ If you like my work, feel free to **star** this repo!
