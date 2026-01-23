@@ -50,7 +50,7 @@ I’m especially interested in **startups & data-driven teams**.
 ---
 
 ## 📬 Let’s Connect
-- 💼 LinkedIn: *(add your LinkedIn link here)*  
-- 📧 Email: *(add your professional email)*  
+- 💼 LinkedIn: *(https://www.linkedin.com/in/abhyuday-mishra-da/)*  
+- 📧 Email: *(abhyudaymishra7674@gmail.com )*  
 
 ⭐ If you like my work, feel free to **star** this repo!
