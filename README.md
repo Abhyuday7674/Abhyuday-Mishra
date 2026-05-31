@@ -41,8 +41,7 @@ I’m focused on **real-world projects**, not just certificates.
 ---
 
 ## 🎯 What I’m Looking For
-- Data Analyst Intern  
-- Business Analyst Intern  
+ - Business Analyst Intern  
 - Analytics / Operations Analyst roles  
 
 I’m especially interested in **startups & data-driven teams**.
